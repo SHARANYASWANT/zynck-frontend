@@ -6,7 +6,7 @@ const Hope = () => {
     <div className='bg-gray-200 min-h-screen'>
         <h1 className='text-center p-12 text-3xl font-extrabold py-20 uppercase'>every child deserves a future full of hope and opportunity</h1>
         <div className='px-20 text-lg'>
-          <p className=''><span className='text-cyan-400'>"The Social Project”</span> was initiated with a vision to serve society by creating an environment that makes the world a better place to live in.
+          <p className=''><span className='text-cyan-400'>&quot;The Social Project&quot;</span> was initiated with a vision to serve society by creating an environment that makes the world a better place to live in.
           <br />
           <br />
           It is our responsibility to contribute to the growth and betterment of society. When the question arises, <span className='text-cyan-400'>what are we really doing?</span> The general answer is often <span className='text-cyan-400'>nothing!</span> We are all so caught up with our own lives, busy providing for our own needs, that we generally overlook society and the needy. But as we look around, we see that resources are everywhere, waiting to be harnessed for the greater good.
