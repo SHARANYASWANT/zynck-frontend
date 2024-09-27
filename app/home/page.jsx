@@ -1,10 +1,10 @@
 import React from 'react'
 import P from './P'
 
-const page = () => {
+const Page = () => {
   return (
     <P />
   )
 }
 
-export default page
+export default Page
